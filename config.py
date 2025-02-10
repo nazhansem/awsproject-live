@@ -19,5 +19,5 @@ customregion = "us-east-1"
 # - customdb: The name of the database to connect to.
 
 # AWS S3 Storage Configuration:
-# - custombucket: The name of the AWS S3 bucket for storing files, in this case, "addemployee."
-# - customregion: The AWS region where the S3 bucket is located, in this case, "bombay."
+# - custombucket: The name of the AWS S3 bucket for storing files
+# - customregion: The AWS region where the S3 bucket is located
